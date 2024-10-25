@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\bin\Debug\net8.0\HandlerException.deps.json
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\bin\Debug\net8.0\HandlerException.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\bin\Debug\net8.0\HandlerException.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\obj\Debug\net8.0\HandlerException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\obj\Debug\net8.0\HandlerException.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\obj\Debug\net8.0\HandlerException.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\obj\Debug\net8.0\HandlerException.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\obj\Debug\net8.0\HandlerException.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\obj\Debug\net8.0\refint\HandlerException.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\obj\Debug\net8.0\HandlerException.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\HandlerException\obj\Debug\net8.0\ref\HandlerException.dll

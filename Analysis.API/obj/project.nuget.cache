@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PAvl8pwewKrFlFAlelJRCCgA5jFTjD4ap3NSQw3jRnJM/q7hfigRKAFhp+EpfSuslcErwAYYgHr0yrLOc9yRrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Escritorio\\AppFinPersonal\\Analysis.API\\AnalysisAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.0\\microsoft.visualstudio.azure.containers.tools.targets.1.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}

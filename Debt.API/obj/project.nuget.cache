@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PMsy7ZIb5Zd6Db7xNxR2i/uGS06gqY9eVhCS2lUA8sgy8hUrX9nBcE1XQ727aFcpxCZ5R7K3NEAu7BhRjHFgWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Escritorio\\AppFinPersonal\\Debt.API\\DebtAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.0\\microsoft.visualstudio.azure.containers.tools.targets.1.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}

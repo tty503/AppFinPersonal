@@ -1,0 +1,17 @@
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\bin\Debug\net8.0\AccountInfrastructure.deps.json
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\bin\Debug\net8.0\AccountInfrastructure.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\bin\Debug\net8.0\AccountInfrastructure.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\bin\Debug\net8.0\AccountCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\bin\Debug\net8.0\IdentityCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\bin\Debug\net8.0\AccountCore.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\bin\Debug\net8.0\IdentityCore.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\obj\Debug\net8.0\AccountInfrastructure.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\obj\Debug\net8.0\AccountInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\obj\Debug\net8.0\AccountInfrastructure.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\obj\Debug\net8.0\AccountInfrastructure.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\obj\Debug\net8.0\AccountInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\obj\Debug\net8.0\AccountI.626D1B66.Up2Date
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\obj\Debug\net8.0\AccountInfrastructure.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\obj\Debug\net8.0\refint\AccountInfrastructure.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\obj\Debug\net8.0\AccountInfrastructure.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Infrastructure\obj\Debug\net8.0\ref\AccountInfrastructure.dll

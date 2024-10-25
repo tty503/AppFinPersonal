@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uP8BIJwv4nIXcOdIyb8LPPvW1/pyrar7s2AXMrYAraFQjqD+zrl3xaoNDBMRVuIxj9ud0fwMcHe47n23fedZjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Escritorio\\AppFinPersonal\\Logging\\Logging.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}

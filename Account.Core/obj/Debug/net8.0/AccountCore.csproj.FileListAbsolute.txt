@@ -1,0 +1,15 @@
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\obj\Debug\net8.0\AccountCore.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\obj\Debug\net8.0\AccountCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\obj\Debug\net8.0\AccountCore.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\obj\Debug\net8.0\AccountCore.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\obj\Debug\net8.0\AccountCore.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\bin\Debug\net8.0\AccountCore.deps.json
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\bin\Debug\net8.0\AccountCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\bin\Debug\net8.0\AccountCore.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\bin\Debug\net8.0\IdentityCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\bin\Debug\net8.0\IdentityCore.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\obj\Debug\net8.0\AccountC.14DDAE69.Up2Date
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\obj\Debug\net8.0\AccountCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\obj\Debug\net8.0\refint\AccountCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\obj\Debug\net8.0\AccountCore.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Account.Core\obj\Debug\net8.0\ref\AccountCore.dll

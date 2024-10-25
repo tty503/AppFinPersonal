@@ -1,0 +1,12 @@
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\bin\Debug\net8.0\CommonApi.deps.json
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\bin\Debug\net8.0\CommonApi.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\bin\Debug\net8.0\CommonApi.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\obj\Debug\net8.0\CommonApi.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\obj\Debug\net8.0\CommonApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\obj\Debug\net8.0\CommonApi.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\obj\Debug\net8.0\CommonApi.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\obj\Debug\net8.0\CommonApi.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\obj\Debug\net8.0\CommonApi.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\obj\Debug\net8.0\refint\CommonApi.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\obj\Debug\net8.0\CommonApi.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\MyControllerBase\obj\Debug\net8.0\ref\CommonApi.dll

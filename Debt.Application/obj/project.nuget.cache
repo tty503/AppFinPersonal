@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "IXzNrSMzZBtTKGjA8AuYa3VS15Y38umc6IatE3zoOAF1JdJq1KyV2n4b6NhQ1UxE2z/dpq5AH3Z3CbH/wPIfiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Escritorio\\AppFinPersonal\\Debt.Application\\DebtApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

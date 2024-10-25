@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QLsC2eFO9+tHv4yJ6dF8GfvnykNwysnDs1uhcc2dH0a3mB451AOmonPoLGThj2Soqp0TeegorzO5aJ6NLu9+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Escritorio\\AppFinPersonal\\Budget.API\\Budget.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.0\\microsoft.visualstudio.azure.containers.tools.targets.1.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}

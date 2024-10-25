@@ -1,0 +1,17 @@
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\bin\Debug\net8.0\TransactionApplication.deps.json
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\bin\Debug\net8.0\TransactionApplication.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\bin\Debug\net8.0\TransactionApplication.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\bin\Debug\net8.0\TransactionCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\bin\Debug\net8.0\TransactionCore.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\obj\Debug\net8.0\TransactionApplication.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\obj\Debug\net8.0\TransactionApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\obj\Debug\net8.0\TransactionApplication.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\obj\Debug\net8.0\TransactionApplication.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\obj\Debug\net8.0\TransactionApplication.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\obj\Debug\net8.0\Transact.C92FBECE.Up2Date
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\obj\Debug\net8.0\TransactionApplication.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\obj\Debug\net8.0\refint\TransactionApplication.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\obj\Debug\net8.0\TransactionApplication.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\obj\Debug\net8.0\ref\TransactionApplication.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\bin\Debug\net8.0\HandlerException.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Application\bin\Debug\net8.0\HandlerException.pdb

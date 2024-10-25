@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\bin\Debug\net8.0\TransactionCore.deps.json
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\bin\Debug\net8.0\TransactionCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\bin\Debug\net8.0\TransactionCore.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\obj\Debug\net8.0\TransactionCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\obj\Debug\net8.0\TransactionCore.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\obj\Debug\net8.0\TransactionCore.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\obj\Debug\net8.0\TransactionCore.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\obj\Debug\net8.0\TransactionCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\obj\Debug\net8.0\refint\TransactionCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\obj\Debug\net8.0\TransactionCore.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Transaction.Core\obj\Debug\net8.0\ref\TransactionCore.dll

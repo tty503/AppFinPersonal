@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pqjNU2qgiCjrQGcZ8P4r2aIgTpXL+1YuI1BF9/icY8xyAvws+MFqJobmUmaBqAmMoa8udQ/x9nVs9/RnlZzBHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\OneDrive\\Escritorio\\AppFinPersonal\\Notification.API\\Notification.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.0\\microsoft.visualstudio.azure.containers.tools.targets.1.20.0.nupkg.sha512"
+  ],
+  "logs": []
+}

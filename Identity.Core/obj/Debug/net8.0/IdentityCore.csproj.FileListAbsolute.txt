@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\bin\Debug\net8.0\IdentityCore.deps.json
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\bin\Debug\net8.0\IdentityCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\bin\Debug\net8.0\IdentityCore.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\obj\Debug\net8.0\IdentityCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\obj\Debug\net8.0\IdentityCore.AssemblyInfoInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\obj\Debug\net8.0\IdentityCore.AssemblyInfo.cs
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\obj\Debug\net8.0\IdentityCore.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\obj\Debug\net8.0\IdentityCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\obj\Debug\net8.0\refint\IdentityCore.dll
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\obj\Debug\net8.0\IdentityCore.pdb
+C:\Users\pc\OneDrive\Escritorio\AppFinPersonal\Identity.Core\obj\Debug\net8.0\ref\IdentityCore.dll

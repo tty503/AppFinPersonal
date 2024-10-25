@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AccountCore/1.0.0": {
+        "dependencies": {
+          "IdentityCore": "1.0.0"
+        },
+        "runtime": {
+          "AccountCore.dll": {}
+        }
+      },
+      "IdentityCore/1.0.0": {
+        "runtime": {
+          "IdentityCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AccountCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IdentityCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
